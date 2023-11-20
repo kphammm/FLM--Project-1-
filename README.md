@@ -11,7 +11,7 @@
 - **Natalia Jauregui** - ChocolateCheerios
   - Ran code to ensure it followed guidelines 
   - Made code edits as needed 
-  - Updated Discord repo to utilize the MD file powers to make it pretty (to give me information on your group members - full name, GitHub username, tasks completed, including extra credit tasks by member, code versions (tags), features, etc.)
+  - Updated Discord repo to utilize the MD file powers to make it pretty (to give me information on group members - full name, GitHub username, tasks completed, including extra credit tasks by member, code versions (tags), features, etc.)
 
 - **Tiffany Lo** - Yintinglo
   - Programmed DecInteger
