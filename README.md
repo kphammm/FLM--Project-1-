@@ -1,18 +1,36 @@
 # FLM--Project-1-
-There are 4 different blocks for decinteger, octinteger, hexinteger, and the string literal.
 
-decinteger
--run the block and enter in an input to see if it is a decinteger or not
-ex) 1000
+**Team Name:** FLM 
 
-octinteger
--run the block and enter in an input to see if it is a octinteger or not
-ex) 0o234
+**Team Members/Associated usernames & Tasks completed:**
+- **Kenneth Pham** - Kphammm 
+  - Task
+  
+- **Natalia Jauregui** - ChocolateCheerios
+  - Ran code to ensure it followed guidelines 
+  - Made code edits as needed 
+  - Updated Discord repo to utilize the MD file powers to make it pretty (to give me information on your group members - full name, GitHub username, tasks completed, including extra credit tasks by member, code versions (tags), features, etc.)
 
-hexinteger
--run the block and enter in an input to see if it is a hexinteger or not
-ex) 0x1f2e
+- **Tiffany Lo** - Yintinglo
+  - Task
 
-the string literal
--the different methods are commented out on the bottom
--uncomment to run the method of your choice
+
+
+This repository provides Python code blocks to check if a given input is a `decinteger`, `octinteger`, `hexinteger`, or a `string literal`.
+
+1. **DecInteger**
+   - Run the block and enter an input to check if it is a decinteger or not.
+   - Example: `1000`
+
+2. **OctInteger**
+   - Run the block and enter an input to check if it is an octinteger or not.
+   - Example: `0o234`
+
+3. **HexInteger**
+   - Run the block and enter an input to check if it is a hexinteger or not.
+   - Example: `0x1f2e`
+
+4. **String Literal**
+   - Different methods for checking string literals are commented out at the bottom.
+   - Uncomment to run the method of your choice.
+
