@@ -14,7 +14,7 @@
   - Updated Discord repo to utilize the MD file powers to make it pretty (to give me information on your group members - full name, GitHub username, tasks completed, including extra credit tasks by member, code versions (tags), features, etc.)
 
 - **Tiffany Lo** - Yintinglo
-  - Task
+  - Programmed DecInteger
 
 
 
