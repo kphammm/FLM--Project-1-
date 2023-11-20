@@ -4,7 +4,9 @@
 
 **Team Members/Associated usernames & Tasks completed:**
 - **Kenneth Pham** - Kphammm 
-  - Task
+  - Programmed HexInteger
+  - Programmed OctInteger
+  - Programmed String Literal
   
 - **Natalia Jauregui** - ChocolateCheerios
   - Ran code to ensure it followed guidelines 
